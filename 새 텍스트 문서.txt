@@ -1,7 +1,6 @@
-
-
 # 안녕하세요
 
+# samsung first
 # Pull
 # git pull origin master
 
@@ -10,6 +9,3 @@
 # git add .
 # git commit -m "massage"
 # git push origin +msater
-
-
-# 추가된 메세지 입니다.
