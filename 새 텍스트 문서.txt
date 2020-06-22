@@ -1,10 +1,15 @@
-#안녕하세요
 
-#Pull
-#git pull origin master
 
-#Push
-#git status
-#git add .
-#git commit -m "massage"
-#git push origin +msater
+# 안녕하세요
+
+# Pull
+# git pull origin master
+
+# Push
+# git status
+# git add .
+# git commit -m "massage"
+# git push origin +msater
+
+
+# 추가된 메세지 입니다.
